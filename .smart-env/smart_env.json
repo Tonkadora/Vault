@@ -17,5 +17,8 @@
   "file_exclusions": "Untitled",
   "folder_exclusions": "smart-chats",
   "excluded_headings": "",
-  "smart_chats_folder": "smart-chats"
+  "smart_chats_folder": "smart-chats",
+  "smart_chats": {
+    "fs_path": ".smart-chats"
+  }
 }
