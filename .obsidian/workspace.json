@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8013e5e210bd0374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5e28e1cc705bd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +150,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session Zero.md"
+                "file": "key.md"
               }
             }
+          },
+          {
+            "id": "795b35831b317dc5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -144,13 +177,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "8c3e5a95c93cd776",
+  "active": "3e5e28e1cc705bd7",
   "lastOpenFiles": [
-    "Did it work.md",
+    "Untitled.md",
+    "key.md",
     "Session Notes/Session Zero.md",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
+    "smart-chats",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Curse of Strahd/Players/Lyle Hartman.md",
+    "Curse of Strahd/Players",
+    "Curse of Strahd",
+    "Did it work.md",
     "Session Notes",
     "did it work.md"
   ]
