@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45acb88ed5a8a9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session Zero did you work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md"
+                "file": "Session Notes/Session Zero did you work.md"
               }
             }
           },
@@ -182,12 +194,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3e5e28e1cc705bd7",
+  "active": "45acb88ed5a8a9b8",
   "lastOpenFiles": [
     "Session Notes/key.md",
-    "Curse of Strahd/Players/Lyle Hartman.md",
     "Untitled.md",
-    "Session Notes/Session Zero.md",
+    "Untitled 1.md",
+    "Curse of Strahd/Players/Lyle Hartman.md",
+    "Session Notes/Session Zero did you work.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "smart-chats",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
