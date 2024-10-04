@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "96c43674e082566b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdf03aa2512b5e6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "524ac9c95a5fbabb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vault/Curse of Strahd/Players/Lyle Hartman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4877974e9485ea3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Do you work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f7322c462b4254e9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c2bfdfc89ca68f04",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3114d50d804275d",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "11d2b6dd4d216976",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "e1b324585c704c14",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e7b27725ec04d2b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "867a63fb9894273e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Do you work.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "47c6e28a59fa2a3a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Do you work.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "1f9b9fcb48f19f55",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Do you work.md"
+          }
+        }
+      },
+      {
+        "id": "309efdac84804c78",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "7cf87c18712d19ba",
+        "type": "leaf",
+        "state": {
+          "type": "smart-connections-chat-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "4877974e9485ea3b",
+  "lastOpenFiles": [
+    "Untitled-1.txt",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Curse of Strahd/Players/Lyle Hartman.md",
+    "Curse of Strahd/Players",
+    "Curse of Strahd",
+    "Untitled.md",
+    "Session Notes/Session Zero did you work.md",
+    "Session Notes",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
+    "smart-chats",
+    "Vault/Curse of Strahd/Players/Lyle Hartman.md",
+    "Do you work.md",
+    "Vault/Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Vault/Curse of Strahd/Players",
+    "Vault/Session Notes/Session Zero did you work.md",
+    "Vault/smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
+    "Vault/Untitled-1.txt",
+    "Vault/Curse of Strahd",
+    "Vault/Untitled.md",
+    "Vault/Session Notes",
+    "Vault/smart-chats",
+    "Vault"
+  ]
+}
