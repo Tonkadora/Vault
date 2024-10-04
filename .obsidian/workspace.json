@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "400c8d7527d05d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -214,16 +226,16 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "b6e3517dddb3f11d",
+  "active": "400c8d7527d05d0e",
   "lastOpenFiles": [
-    "Curse of Strahd/Players/Lyle Hartman.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "Curse of Strahd/Players/Lyle Hartman.md",
     "Session Notes/Session Zero.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "Session Notes/key.md",
-    "Untitled 1.md",
     "smart-chats",
     "Curse of Strahd/Players",
     "Curse of Strahd",
