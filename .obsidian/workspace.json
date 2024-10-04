@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92bf2ee251fd0f4b",
+            "id": "8c3e5a95c93cd776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session Zero did you work.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5e28e1cc705bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,19 @@
             }
           },
           {
-            "id": "823138427d7d5dd2",
+            "id": "45acb88ed5a8a9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero did you work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,28 +150,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md"
+                "file": "Session Notes/Session Zero did you work.md"
               }
             }
           },
           {
-            "id": "2bfd786a3a888b60",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "54ce80fadc22162b",
+            "id": "795b35831b317dc5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,19 +181,20 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "823138427d7d5dd2",
+  "active": "45acb88ed5a8a9b8",
   "lastOpenFiles": [
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "Curse of Strahd/Players/Lyle Hartman.md",
-    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Untitled.md",
     "Session Notes/Session Zero did you work.md",
     "Session Notes/key.md",
     "Untitled 1.md",
-    "Untitled.md",
-    "Session Notes/Session Zero.md",
+    "smart-chats",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players",
     "Curse of Strahd",
-    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
-    "smart-chats",
-    "Session Notes"
+    "Did it work.md",
+    "Session Notes",
+    "did it work.md"
   ]
 }
