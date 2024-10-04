@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero did you work.md",
+                "file": "Session Notes/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero did you work.md",
+                "file": "Session Notes/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/Session Zero did you work.md",
+                "file": "Session Notes/Session Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/Session Zero did you work.md",
+                "file": "Session Notes/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/Session Zero did you work.md"
+                "file": "Session Notes/Session Zero.md"
               }
             }
           },
@@ -162,7 +162,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,12 +182,12 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "45acb88ed5a8a9b8",
+  "active": "795b35831b317dc5",
   "lastOpenFiles": [
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "Curse of Strahd/Players/Lyle Hartman.md",
     "Untitled.md",
-    "Session Notes/Session Zero did you work.md",
+    "Session Notes/Session Zero.md",
     "Session Notes/key.md",
     "Untitled 1.md",
     "smart-chats",

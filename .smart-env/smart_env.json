@@ -4,7 +4,7 @@
     "embed_model": {
       "model_key": "TaylorAI/bge-micro-v2"
     },
-    "embed_blocks": "true"
+    "embed_blocks": false
   },
   "smart_sources": {
     "embed_model": {
