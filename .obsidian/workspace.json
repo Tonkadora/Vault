@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92bf2ee251fd0f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "823138427d7d5dd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,16 +150,32 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md"
               }
             }
+          },
+          {
+            "id": "2bfd786a3a888b60",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "54ce80fadc22162b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,13 +185,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fcb859f9b94989b0",
+  "active": "823138427d7d5dd2",
   "lastOpenFiles": [
-    "Session Notes",
+    "Curse of Strahd/Players/Lyle Hartman.md",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Session Notes/Session Zero.md",
-    "Untitled.md"
+    "Curse of Strahd/Players",
+    "Curse of Strahd",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
+    "smart-chats",
+    "Session Notes"
   ]
 }
