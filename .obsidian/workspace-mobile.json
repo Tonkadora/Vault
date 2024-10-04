@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero huuuh.md",
+                "file": "Session Notes/Session Zero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7b9027f9b391c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Session Notes/Session Zero huuuh.md",
+            "file": "Session Notes/Session 1.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Session Notes/Session Zero huuuh.md",
+            "file": "Session Notes/Session 1.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Session Notes/Session Zero huuuh.md"
+            "file": "Session Notes/Session 1.md"
           }
         }
       },
@@ -149,8 +162,13 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "3f3d55260fbe1a14",
+  "active": "0c7b9027f9b391c8",
   "lastOpenFiles": [
+    "Session Notes/Session Zero.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session Zero huuuh.md",
+    "Untitled 1.md",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
     "Vault/Session Notes/Session Zero hbhbh.md",
     "Vault/smart-chats/2024-10-03.md",
     "Untitled 1.canvas",
@@ -163,7 +181,6 @@
     "Curse of Strahd/Players",
     "Curse of Strahd",
     "Untitled.md",
-    "Session Notes/Session Zero huuuh.md",
     "Session Notes",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "smart-chats",
