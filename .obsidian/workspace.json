@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Session Notes/Session Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Session Notes/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Session Notes/Session Zero.md"
               }
             }
           }
@@ -145,10 +147,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "fcb859f9b94989b0",
+  "active": "8c3e5a95c93cd776",
   "lastOpenFiles": [
-    "Session Notes",
+    "Did it work.md",
     "Session Notes/Session Zero.md",
-    "Untitled.md"
+    "Session Notes",
+    "did it work.md"
   ]
 }
