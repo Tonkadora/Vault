@@ -9,6 +9,9 @@
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
   "chat_model_platform_key": "open_router",
+<<<<<<< HEAD
+  "open_router": {},
+=======
   "open_router": {
     "api_key": "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",
     "model_name": "meta-llama/llama-3.2-3b-instruct:free",
@@ -49,6 +52,7 @@
       "per_request_limits": null
     }
   },
+>>>>>>> cad5b7f5c035f788e4233e77b652c7ec8f999688
   "api_key": "",
   "excluded_headings": "",
   "folder_exclusions": "smart-chats",

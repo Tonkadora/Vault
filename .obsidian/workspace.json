@@ -8,7 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "92bf2ee251fd0f4b",
+            "id": "8c3e5a95c93cd776",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session Zero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e5e28e1cc705bd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +32,55 @@
             }
           },
           {
-            "id": "823138427d7d5dd2",
+            "id": "45acb88ed5a8a9b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5331129f8e61062a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6e3517dddb3f11d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "400c8d7527d05d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session Zero.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Session Notes/Session Zero.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,28 +186,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md"
+                "file": "Session Notes/Session Zero.md"
               }
             }
           },
           {
-            "id": "2bfd786a3a888b60",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "54ce80fadc22162b",
+            "id": "795b35831b317dc5",
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
               "state": {}
             }
+          },
+          {
+            "id": "0e52902783ac930a",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -178,19 +226,21 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "823138427d7d5dd2",
+  "active": "400c8d7527d05d0e",
   "lastOpenFiles": [
     "Curse of Strahd/Players/Lyle Hartman.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
-    "Session Notes/Session Zero did you work.md",
-    "Session Notes/key.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Session Notes/Session Zero.md",
+    "Untitled 1.md",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
+    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
+    "Session Notes/key.md",
+    "smart-chats",
     "Curse of Strahd/Players",
     "Curse of Strahd",
-    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
-    "smart-chats",
-    "Session Notes"
+    "Did it work.md",
+    "Session Notes",
+    "did it work.md"
   ]
 }
