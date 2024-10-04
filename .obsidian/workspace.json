@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba13a96c6dab6d5f",
+            "id": "926fc69beeae8725",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Sayings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "70ab0ef2b91cae4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Players/My Character/Lyle Hartman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd46f4031175fb89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Players/Wayne Van Chilsing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d4792219b500fbc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Players/Faye.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8fc13d7e9b0b5c34",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Steel Defender.md",
+                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Steel Defender.md",
+                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Steel Defender.md",
+                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Steel Defender.md"
+                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md"
               }
             }
           },
@@ -209,20 +159,22 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "8e94eff49fffeba2",
+  "active": "926fc69beeae8725",
   "lastOpenFiles": [
-    "Screenshot 2024-10-04 at 10.01.53 AM.png",
-    "Curse of Strahd/Players/Faye.md",
-    "Steel Defender.md",
+    "Curse of Strahd/Players/My Character/Steel Defender.md",
+    "Curse of Strahd/Players/My Character/Homunculus Servant.md",
+    "Curse of Strahd/Players/My Character/Sayings.md",
+    "Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
-    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
+    "Curse of Strahd/Players/Faye.md",
+    "Screenshot 2024-10-04 at 10.01.53 AM.png",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/My Character/Untitled 1.md",
     "Curse of Strahd/Players/My Character/Untitled.md",
     "Curse of Strahd/Players/My Character/DND.md",
     "copilot-conversations/Key.md",
     "copilot-conversations/what_is_a_ball@20241004_094135.md",
-    "Curse of Strahd/Players/My Character/Sayings.md",
     "Untitled",
     "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
     "Session Notes/Session 1.md",
@@ -239,7 +191,6 @@
     "smart-chats/UNTITLED CHAT 2024-10-04 14 19 32.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 20 32.md",
     "Curse of Strahd/Players/My Character",
-    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "smart-chats",
     "Curse of Strahd/Players",
     "Curse of Strahd",
