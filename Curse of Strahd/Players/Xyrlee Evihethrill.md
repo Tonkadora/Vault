@@ -1,40 +1,58 @@
-Character Notes: Xyrlee Evihethriil 
+# Xyrlee Evihethriil
 
-Wood Elf, Wizard (Bladesinger) 
+## Basic Information
 
-- Background: Xyrlee hails from a small, isolated clan that resides in The High Forest, also known as The Great Everwood. This ancient forest is a relic of a time when Faerûn was covered in green and ruled by elves, giants, and dragons. Xyrlee's tribe has thrived in the heart of this forest, preserving ancient traditions that balance swordsmanship and arcane spellcasting. 
-    
-- Cultural Legacy: Xyrlee’s people, the wood elves of The High Forest, combine martial prowess with arcane magic. Within the tribe, members adopt different paths—some become rangers and hunters, while others, like Xyrlee, walk the path of the arcane, blending mystical knowledge with disciplined swordsmanship as a Bladesinger. This duality between nature and magic is integral to their way of life, reflecting their deep bond with the forest and their mastery of magical arts. 
-    
-- Familial Ties and Wisdom: The wisdom of Xyrlee’s clan spans centuries. Many of his ancestors still live, their knowledge passed down through shared stories and training. Xyrlee has absorbed these teachings throughout his life, learning the intricacies of both magic and combat. This long lineage instilled within him an insatiable hunger for mystical knowledge and the discipline to wield it with purpose and precision. 
-    
-- Philosophy: Xyrlee embodies the balance between the raw, untamed forces of nature and the structured power of magic. He is deeply connected to his tribe and the larger community, feeling a strong duty to both. His character is shaped by the teachings of his people, always striving to integrate his practical swordsmanship with the deeper mysteries of the arcane. 
-    
+- **Race:** Wood Elf
+- **Class:** Wizard (Bladesinger)
+- **Background:** Outlander
 
-Background: Outlander 
+## Background
 
-Xyrlee grew up in the wilds, far from the trappings of civilization. His early years were spent exploring the vast, untamed wilderness, where he encountered extreme weather, the migration of massive herds, and the deep solitude of being surrounded by nature’s raw beauty. This upbringing made him self-reliant and attuned to the ways of the wild, giving him a keen understanding of natural landscapes and how to survive in the harshest environments. 
+### Cultural Legacy
 
-Even in unfamiliar terrains, Xyrlee’s instincts and knowledge of the wilds guide him. His ability to live off the land and navigate wilderness survival situations stems from his Outlander background, a defining aspect of his character. 
+Xyrlee hails from a small, isolated clan in The High Forest (The Great Everwood). His people, the wood elves of The High Forest, combine martial prowess with arcane magic. The tribe's members adopt different paths—some become rangers and hunters, while others, like Xyrlee, walk the path of the arcane, blending mystical knowledge with disciplined swordsmanship as a Bladesinger.
 
-Physical Description: 
+### Familial Ties and Wisdom
 
-- Xyrlee is a male wood elf with sharp, angular features and piercing green eyes that seem to absorb everything around him. His slender, athletic build reflects both elegance and power, a testament to years of disciplined training as a Bladesinger. 
-    
-- His chestnut-brown hair is long but usually tied back during combat, keeping it out of his way when he needs focus. His right arm is adorned with intricate elven runes, spiraling from his shoulder down to his hand—symbols of his deep connection to the arcane. 
-    
-- He typically dresses in dark greens and browns, blending into the forest with practical yet enchanting attire, a nod to both his wood elf heritage and his role as a Bladesinger. 
-    
-- Xyrlee carries himself with a wild yet controlled grace, always exuding an aura of unpredictable energy. In combat, his movements are fluid and precise, a dance between blade and magic. 
-    
+The wisdom of Xyrlee's clan spans centuries. Many of his ancestors still live, passing down their knowledge through shared stories and training. Xyrlee has absorbed these teachings throughout his life, learning the intricacies of both magic and combat.
 
-Companion: 
+### Philosophy
 
-- Xyrlee is often accompanied by Aeloria, a petite owl with moon-white feathers and striking blue eyes. Aeloria’s presence is calming, her feathers glowing softly under the light of the moon. She’s a quiet observer, perching nearby and watching over Xyrlee with an unblinking gaze. Her loyalty and calm demeanor reflect Xyrlee’s more contemplative moments. 
-    
+Xyrlee embodies the balance between the raw, untamed forces of nature and the structured power of magic. He is deeply connected to his tribe and the larger community, feeling a strong duty to both. His character is shaped by the teachings of his people, always striving to integrate his practical swordsmanship with the deeper mysteries of the arcane.
 
-Skills and Personality: 
+## Backstory
 
-Xyrlee's low charisma makes him more reserved and observant in social situations, but his skills in Acrobatics, Stealth, Arcana, and Investigation make him an invaluable ally in both combat and exploration. He has an innate ability to blend into his environment, using stealth and acrobatics to navigate difficult situations while his knowledge of arcane lore allows him to solve magical puzzles or uncover hidden secrets. His reserved nature means he often speaks only when necessary, letting his actions speak louder than his words. 
+Xyrlee grew up in the wilds, far from civilization. His early years were spent exploring vast, untamed wilderness, encountering extreme weather, massive herd migrations, and the deep solitude of nature's raw beauty. This upbringing made him self-reliant and attuned to the ways of the wild, giving him a keen understanding of natural landscapes and survival in harsh environments.
 
-Though his charisma may be low, Xyrlee is deeply reflective, his loyalty to his tribe and comrades unwavering. His quiet confidence is backed by a life of disciplined training and survival in the wilds, making him a force to be reckoned with, both on and off the battlefield.
+## Physical Description
+
+- Male wood elf with sharp, angular features and piercing green eyes
+- Slender, athletic build reflecting elegance and power
+- Chestnut-brown hair, usually tied back during combat
+- Right arm adorned with intricate elven runes from shoulder to hand
+- Typically dresses in dark greens and browns
+- Carries himself with a wild yet controlled grace
+
+## Companion
+
+Aeloria, a petite owl with moon-white feathers and striking blue eyes. Her presence is calming, with feathers glowing softly under moonlight. She's a quiet, loyal observer.
+
+## Skills and Abilities
+
+- **Strong Skills:** Acrobatics, Stealth, Arcana, Investigation
+- **Notable Traits:**
+    - Ability to blend into environment
+    - Navigate difficult situations using stealth and acrobatics
+    - Solve magical puzzles and uncover hidden secrets
+    - Deeply reflective with unwavering loyalty
+    - Quiet confidence backed by disciplined training and survival skills
+
+## Personality
+
+- Reserved in social situations
+- Observant
+- Speaks only when necessary
+- Actions speak louder than words
+- Deep connection to nature and magic
+
+#wizard #bladesinger #woodelf #outlander
