@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/key.md",
+                "file": "Curse of Strahd/Players/Lyle Hartman.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Session Notes/key.md",
+                "file": "Curse of Strahd/Players/Lyle Hartman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Session Notes/key.md",
+                "file": "Curse of Strahd/Players/Lyle Hartman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Session Notes/key.md"
+                "file": "Curse of Strahd/Players/Lyle Hartman.md"
               }
             }
           },
@@ -182,10 +182,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fcb859f9b94989b0",
+  "active": "3e5e28e1cc705bd7",
   "lastOpenFiles": [
-    "Untitled.md",
     "Session Notes/key.md",
+    "Untitled.md",
     "Session Notes/Session Zero.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "smart-chats",
