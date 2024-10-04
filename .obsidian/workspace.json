@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70ab0ef2b91cae4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "copilot-conversations/Key.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Sayings.md",
+                "file": "copilot-conversations/Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Sayings.md",
+                "file": "copilot-conversations/Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Sayings.md"
+                "file": "copilot-conversations/Key.md"
               }
             }
           },
@@ -144,9 +157,17 @@
               "type": "smart-connections-view",
               "state": {}
             }
+          },
+          {
+            "id": "d6d14f461192cf79",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -162,35 +183,44 @@
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
       "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "smart-connections:Open: Smart Chat Conversation": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "0e52902783ac930a",
+  "active": "795b35831b317dc5",
   "lastOpenFiles": [
+    "copilot-conversations/what_is_a_ball@20241004_094135.md",
+    "copilot-conversations/Key.md",
+    "Curse of Strahd/Players/My Character/Untitled.md",
+    "Curse of Strahd/Players/My Character/Sayings.md",
+    "Untitled",
+    "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
+    "Curse of Strahd/Players/My Character/Lyle Hartman.md",
+    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Session Notes/Session 1.md",
+    "Session Notes/Session Zero.md",
+    "copilot-conversations/what_model_are_you@20241004_093353.md",
+    "copilot-conversations/what_is_a_ball@20241004_092911.md",
+    "copilot-conversations/[[Sayings]]_create_a_saying_if_i_was_talking_to@20241004_091226.md",
+    "copilot-conversations/[[Sayings]]_what_should_i_say_to_a_king@20241004_090424.md",
+    "copilot-conversations",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 14 37.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 22 17.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 21 18.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 22 03.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 19 32.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 20 32.md",
-    "Curse of Strahd/Players/My Character/Sayings.md",
-    "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character",
-    "Session Notes/Session Zero.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 13 47 50.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 14 19.md",
-    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
-    "Session Notes/Session 1.md",
-    "Untitled 1.md",
     "Untitled.md",
     "Session Notes/key.md",
     "smart-chats",
     "Curse of Strahd/Players",
     "Curse of Strahd",
     "Did it work.md",
-    "Session Notes",
-    "did it work.md"
+    "Session Notes"
   ]
 }
