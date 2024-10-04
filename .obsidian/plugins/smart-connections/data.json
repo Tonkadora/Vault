@@ -10,7 +10,11 @@
   "smart_chat_folder_last": "smart-chats",
   "chat_model_platform_key": "open_router",
   "open_router": {
+<<<<<<< HEAD
     "api_key": "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",
+=======
+    "api_key": "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",
+>>>>>>> c31ceded97d308532a3bc9d022f084974095dc4c
     "model_name": "meta-llama/llama-3.2-3b-instruct:free",
     "description": "Meta: Llama 3.2 3B Instruct (free)",
     "type": "API",
