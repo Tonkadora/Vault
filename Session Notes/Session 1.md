@@ -10,7 +10,6 @@ food- splash of wine
 
 we are in barovia, not many visiters, we walked here as a group.
 
-
 old man sitting by the fire skin and bones 
 
 cat walking around the room
@@ -30,7 +29,7 @@ door slams open
 - dont go through at night 
 
 
-arigol - came to deliver the note (vistony)
+arigol - came to deliver the note (vistany)
 Note:
 has a crest of some kind on the letter
 Irena cannot be saved
