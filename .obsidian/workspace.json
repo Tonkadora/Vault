@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
+                "file": "Session Notes/Session 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
+                "file": "Session Notes/Session 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md",
+                "file": "Session Notes/Session 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Homunculus Servant.md"
+                "file": "Session Notes/Session 1.md"
               }
             }
           },
           {
-            "id": "d6d14f461192cf79",
+            "id": "8cf2b691cbc6ef8d",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 350.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +158,10 @@
   },
   "active": "926fc69beeae8725",
   "lastOpenFiles": [
-    "Curse of Strahd/Players/My Character/Steel Defender.md",
+    "Session Notes/Session Zero.md",
+    "Session Notes/Session 1.md",
     "Curse of Strahd/Players/My Character/Homunculus Servant.md",
+    "Curse of Strahd/Players/My Character/Steel Defender.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
     "Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
@@ -175,8 +176,6 @@
     "copilot-conversations/what_is_a_ball@20241004_094135.md",
     "Untitled",
     "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
-    "Session Notes/Session 1.md",
-    "Session Notes/Session Zero.md",
     "copilot-conversations/what_model_are_you@20241004_093353.md",
     "copilot-conversations/what_is_a_ball@20241004_092911.md",
     "copilot-conversations/[[Sayings]]_create_a_saying_if_i_was_talking_to@20241004_091226.md",
