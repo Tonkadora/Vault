@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21c2b55fb20ba642",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5
+    "width": 524.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +169,17 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "926fc69beeae8725",
+  "active": "8cf2b691cbc6ef8d",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Session Notes/Session 1.md",
+    "Untitled.md",
     "Curse of Strahd/Players/My Character/Steel Defender.md",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character/Homunculus Servant.md",
     "Curse of Strahd/Players/Faye.md",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
-    "Session Notes/Session 1.md",
     "Session Notes/Session Zero.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
     "Screenshot 2024-10-04 at 11.35.41 AM.png",
@@ -186,7 +201,6 @@
     "smart-chats/UNTITLED CHAT 2024-10-04 14 21 18.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 22 03.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 14 19 32.md",
-    "smart-chats/UNTITLED CHAT 2024-10-04 14 20 32.md",
     "Curse of Strahd/Players/My Character",
     "smart-chats",
     "Curse of Strahd/Players",
