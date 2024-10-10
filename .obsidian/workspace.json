@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Session Notes/Session 1.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,16 +23,13 @@
             "id": "5e2ebc7671d4d372",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Curse of Strahd/NPC/Arigol.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/NPC/Arigol.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/NPC/Arigol.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/NPC/Arigol.md"
+                "file": "Curse of Strahd/NPC/Getsu.md"
               }
             }
           },
@@ -170,12 +167,15 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5e2ebc7671d4d372",
+  "active": "926fc69beeae8725",
   "lastOpenFiles": [
-    "Curse of Strahd/NPC/Kolyan Indirovich.md",
+    "Untitled.md",
     "Curse of Strahd/NPC/Getsu.md",
-    "2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
+    "Curse of Strahd/NPC/Arigol.md",
     "Curse of Strahd/Session Notes/Session 1.md",
+    "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
+    "Images",
+    "Curse of Strahd/NPC/Kolyan Indirovich.md",
     "Curse of Strahd/Players/My Character/Thumper.md",
     "Curse of Strahd/World/Factions/Vistani.md",
     "Curse of Strahd/World/Locations/Barovia.md",
@@ -184,21 +184,18 @@
     "Curse of Strahd/World",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character/Homunculus Servant.md",
-    "Curse of Strahd/NPC/Arigol.md",
     "Curse of Strahd/NPC",
-    "Untitled.md",
     "copilot-conversations/Key.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
-    "Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
     "Curse of Strahd/Players/Faye.md",
-    "Screenshot 2024-10-04 at 10.01.53 AM.png",
+    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/My Character/Untitled 1.md",
     "Curse of Strahd/Players/My Character/Untitled.md",
     "Curse of Strahd/Players/My Character/DND.md",
     "copilot-conversations/what_is_a_ball@20241004_094135.md",
-    "Untitled",
     "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
     "Curse of Strahd/Session Notes/Session Zero.md",
     "copilot-conversations/what_model_are_you@20241004_093353.md",
