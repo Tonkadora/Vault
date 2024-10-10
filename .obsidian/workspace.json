@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Quests.md",
+                "file": "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Quests.md",
+                "file": "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Quests.md",
+                "file": "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Quests.md"
+                "file": "Curse of Strahd/Quests/Help Kolyan Indirovich.md"
               }
             }
           },
@@ -156,12 +156,13 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "926fc69beeae8725",
+  "active": "fcb859f9b94989b0",
   "lastOpenFiles": [
+    "Curse of Strahd/Quests",
     "Curse of Strahd/Session Notes/Session 1.md",
     "Curse of Strahd/World/Factions/Vistani.md",
     "Curse of Strahd/NPC/Arigol.md",
-    "Curse of Strahd/Quests.md",
+    "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
     "Curse of Strahd/Session Notes/Session Zero.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
@@ -191,7 +192,6 @@
     "copilot-conversations/what_model_are_you@20241004_093353.md",
     "copilot-conversations/what_is_a_ball@20241004_092911.md",
     "copilot-conversations/[[Sayings]]_create_a_saying_if_i_was_talking_to@20241004_091226.md",
-    "copilot-conversations/[[Sayings]]_what_should_i_say_to_a_king@20241004_090424.md",
     "copilot-conversations",
     "Curse of Strahd/Players/My Character",
     "smart-chats",
