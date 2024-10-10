@@ -10,7 +10,7 @@
 
 - Getsu seems to be a kind and welcoming individual, despite the eerie atmosphere of the tavern.
 - He has a bandaged hand, which suggests that he may have been injured in the past.
-- Getsu is aware of the dangers of Barovia and warns us about the mist and the Vistani.
+- Getsu is aware of the dangers of [[Barovia]] and warns us about the mist and the [[Vistani]].
 - He seems to be a bit of a local expert, providing us with information about the area and its inhabitants.
 
 **Relationships:**
@@ -23,10 +23,6 @@
 - Getsu is skilled in hospitality and customer service.
 - He may have knowledge of the local area and its inhabitants.
 
-**Goals and Motivations:**
-
-- Getsu's primary goal is to run his inn and provide services to travelers.
-- He may be motivated by a desire to help us on our journey, but his primary concern is the safety and well-being of his guests.
 
 **Quirks and Habits:**
 
@@ -37,9 +33,12 @@
 **Backstory:**
 
 - Getsu's backstory is not well-known, but it is clear that he has been running his inn for some time.
-- He may have a personal history with the Vistani or other inhabitants of Barovia.
+- He may have a personal history with the [[Vistani]] or other inhabitants of [[Barovia]].
+	- 
 
 **Future Interactions:**
 
 - Getsu may continue to provide us with information and services as we travel through Barovia.
 - He may become a valuable ally or source of information in our quest to uncover the secrets of the area.
+
+#NPC #Innkeeper #Human #Strahd

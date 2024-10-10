@@ -26,4 +26,4 @@ At the end of a long rest, you can create a new steel defender if you have smith
 
 
 
-#steel-defender #companion #clockwork
+#steel-defender #companion #clockwork #Construct 

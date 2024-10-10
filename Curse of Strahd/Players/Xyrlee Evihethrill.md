@@ -55,4 +55,5 @@ Aeloria, a petite owl with moon-white feathers and striking blue eyes. Her prese
 - Actions speak louder than words
 - Deep connection to nature and magic
 
-#wizard #bladesinger #woodelf #outlander
+
+#Player  #wizard #bladesinger #woodelf #outlander #Strahd #barovia

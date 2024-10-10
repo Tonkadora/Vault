@@ -36,3 +36,5 @@
 
 - Kolyan Indirovich's backstory is not well-known, but it is clear that he has a position of power and authority in Barovia.
 - He may have a personal history with the city and its inhabitants, as well as connections with other powerful individuals and organizations.
+
+#NPC #Burgomaster #barovia #Strahd

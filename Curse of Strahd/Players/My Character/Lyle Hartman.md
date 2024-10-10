@@ -105,4 +105,4 @@ Clockwork jack rabbit:
 - Impeccably dressed with gold pocket watch and ebony cane
 - Speaks with upper-class accent, navigates high society with ease
 
-#changeling #artificer #battlesmith #abandoned
+#changeling #artificer #battlesmith #abandoned #player #Strahd #barovia

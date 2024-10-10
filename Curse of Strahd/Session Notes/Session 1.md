@@ -1,8 +1,10 @@
+## Day 1
+
 We arrived in the city of [[Barovia]], a place shrouded in mystery and danger. The tavern where we stopped was empty, but clean and warm, with a fire crackling in the hearth. [[Getsu]], the innkeeper, greeted us with a bandaged hand and a apologetic smile. He warned us about the dangers of [[Barovia]], telling us not to go out at night, as the mist is treacherous and it's bad luck to kill birds. He also cautioned us about the [[Vistani]], a nomadic people who travel in colorful caravans and have a deal with the Dark Lord of Barovia.
 
 **The Vistani Messenger**
 
-Just as we were finishing our meal, a 50-year-old man burst into the tavern, slamming the door open. He introduced himself as [[Arigol]], a messenger sent to deliver a note from the [[Vistani]]. The note was written in elegant script and read: "Irena cannot be saved, much wealth in the city, come quickly." It was signed by [[Kolyan Indirovich]], the Burgomaster of Barovia.
+Just as we were finishing our meal, a 50-year-old man burst into the tavern, slamming the door open. He introduced himself as [[Arigol]], (a [[Vistani]]) a messenger sent to deliver a note from the [[Kolyan Indirovich]]. The note was written in elegant script and read: "Irena cannot be saved, much wealth in the city, come quickly." It was signed by [[Kolyan Indirovich]], the Burgomaster of Barovia.
 
 **Meeting the Party**
 
@@ -18,7 +20,8 @@ I had a flashback of seeing a parchment on the town wall, with a wanted poster f
 
 We saw a new scene, where an group of 11 people huddled up and a man was handing out pins to each of us, with a number on it. We were heading out of a vague town and saw all my party members.
 
-## Night Shift
+
+## Night 
 ### **Xyrlee's Vision**
 
 [[Xyrlee]] had a vision or dream, where he saw a faster movement of light and his companions moving around the room. He also saw Getsu and the inn weathering over time, with Xyrlee aging faster and faster to an elderly age. Rats even showed up and ate his eye ball.
@@ -27,7 +30,7 @@ We saw a new scene, where an group of 11 people huddled up and a man was handing
  [[Thumper]], another party member, woke us up and told us that he heard the sound of claws on the window. The cat, Prof. Victor Pollonskii, was climbing up.
 
 
-**Next Day**
+## Day 2
 
 Xyrlee found out from his bird that we were in a mountain valley, with a road leading east to west and a big castle north of the road.
 

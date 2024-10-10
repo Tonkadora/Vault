@@ -69,4 +69,4 @@ Russel Rightly is a nerdy 10-year-old changeling who values knowledge, precision
 - Emphasize precision in language and concepts
 - Incorporate statistical and mathematical terms when possible
 
-#russelrightly #dialogue #physics #clockwork
+#russelrightly #dialogue 

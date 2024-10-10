@@ -27,3 +27,5 @@
 
 - Arigol's primary goal is to deliver the note and complete his mission.
 - He may be motivated by a desire to serve the Vistani or the Burgomaster, or to fulfill a personal obligation
+
+ #NPC #QuestGiver #Vistani #Human #Strahd
