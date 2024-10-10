@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/NPC/Getsu.md",
+                "file": "Curse of Strahd/World/Locations/Barovia.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/NPC/Getsu.md",
+                "file": "Curse of Strahd/World/Locations/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/NPC/Getsu.md",
+                "file": "Curse of Strahd/World/Locations/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/NPC/Getsu.md"
+                "file": "Curse of Strahd/World/Locations/Barovia.md"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "4ebd9218082ba927",
   "lastOpenFiles": [
-    "Curse of Strahd/World/Locations/Tavern.md",
     "Curse of Strahd/NPC/Getsu.md",
+    "Curse of Strahd/World/Locations/Tavern.md",
     "Curse of Strahd/NPC/Kolyan Indirovich.md",
     "Curse of Strahd/NPC/Arigol.md",
     "copilot-conversations/Key.md",

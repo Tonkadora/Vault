@@ -2,11 +2,11 @@
   "mapMarkers": [
     {
       "id": "barovia-overview",
-      "lastAccessed": 1728591308649,
+      "lastAccessed": 1728593196829,
       "markers": [
         {
           "id": "ID_4adb6b284bd9",
-          "type": "default",
+          "type": "Building",
           "loc": [
             -1.2505912780761719,
             2.6800193786621094
@@ -23,6 +23,74 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_38a95a2a4be9",
+          "type": "Town",
+          "loc": [
+            -1.2225189208984375,
+            2.4048385620117188
+          ],
+          "link": "Barovia",
+          "layer": "%5B%5Bmap.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.790293545410783,
+            0.6259296875
+          ],
+          "description": "Town of Barovia\n",
+          "minZoom": 0,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_bbb988085908",
+          "type": "default",
+          "loc": [
+            -1.21197509765625,
+            2.423095703125
+          ],
+          "layer": "%5B%5Bmap.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 8,
+          "maxZoom": 8,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_79bb09ca39e8",
+          "type": "default",
+          "loc": [
+            -1.2060165405273438,
+            2.406818389892578
+          ],
+          "layer": "%5B%5Bmap.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_ba88fbba69db",
+          "type": "default",
+          "loc": [
+            -1.2040634155273438,
+            2.395099639892578
+          ],
+          "layer": "%5B%5Bmap.webp%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 0,
+          "maxZoom": 0,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -35,14 +103,64 @@
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#acaaaa",
     "transform": {
       "size": 6,
       "x": 0,
       "y": -2
-    }
+    },
+    "isImage": false
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Building",
+      "iconName": "home",
+      "color": "#a5bdee",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Fight",
+      "iconName": "bahai",
+      "color": "#ffb3b3",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Town",
+      "iconName": "archway",
+      "color": "#277767",
+      "alpha": 1,
+      "layer": true,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
