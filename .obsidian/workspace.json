@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4ce25bbedb7a5f4",
+        "id": "9015383b717ab46f",
         "type": "tabs",
         "children": [
           {
-            "id": "926fc69beeae8725",
+            "id": "4ebd9218082ba927",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
+                "file": "Curse of Strahd/NPC/Getsu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/Xyrlee Evihethrill.md"
+                "file": "Curse of Strahd/NPC/Getsu.md"
               }
             }
           },
@@ -154,37 +154,41 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "copilot:Copilot Chat": false
+      "copilot:Copilot Chat": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "926fc69beeae8725",
+  "active": "4ebd9218082ba927",
   "lastOpenFiles": [
+    "Curse of Strahd/World/Locations/Tavern.md",
+    "Curse of Strahd/NPC/Getsu.md",
+    "Curse of Strahd/NPC/Kolyan Indirovich.md",
+    "Curse of Strahd/NPC/Arigol.md",
+    "copilot-conversations/Key.md",
+    "Curse of Strahd/World/Locations/Barovia.md",
+    "Curse of Strahd/00Session Notes/Session 1.md",
+    "Images/map.webp",
+    "IMG_6755.jpeg",
+    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
+    "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
     "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
     "Curse of Strahd/Players/Faye.md",
-    "Curse of Strahd/NPC/Arigol.md",
     "Curse of Strahd/Quests",
-    "Curse of Strahd/Session Notes/Session 1.md",
     "Curse of Strahd/World/Factions/Vistani.md",
-    "Curse of Strahd/Session Notes/Session Zero.md",
+    "Curse of Strahd/00Session Notes/Session Zero.md",
     "Curse of Strahd/Players/My Character/Homunculus Servant.md",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character/Thumper.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
-    "Curse of Strahd/NPC/Kolyan Indirovich.md",
-    "Curse of Strahd/NPC/Getsu.md",
-    "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
     "Untitled.md",
     "Images",
-    "Curse of Strahd/World/Locations/Barovia.md",
     "Curse of Strahd/World/Factions",
     "Curse of Strahd/World/Locations",
     "Curse of Strahd/World",
     "Curse of Strahd/NPC",
-    "copilot-conversations/Key.md",
-    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
-    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
     "Curse of Strahd/Players/My Character/Untitled 1.md",
     "Curse of Strahd/Players/My Character/Untitled.md",
     "Curse of Strahd/Players/My Character/DND.md",

@@ -1,3 +1,14 @@
+## Map
+
+```leaflet
+id: barovia-overview
+image: [[map.webp]]
+width: 100%
+height: 400px
+minZoom: 7
+maxZoom: 10
+defaultZoom: 7.5
+```
 
 
 **Name:** Barovia  
