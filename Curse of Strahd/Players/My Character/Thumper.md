@@ -1,4 +1,6 @@
+# Steel Defender
 # Rules
+
 
 ## Book Text
 Your tinkering has borne you a companion, a steel defender. It’s friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature’s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
