@@ -9,50 +9,7 @@
   "smart_chat_folder": "smart-chats",
   "smart_chat_folder_last": "smart-chats",
   "chat_model_platform_key": "open_router",
-<<<<<<< HEAD
   "open_router": {},
-=======
-  "open_router": {
-    "api_key": "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",
-    "model_name": "meta-llama/llama-3.2-3b-instruct:free",
-    "description": "Meta: Llama 3.2 3B Instruct (free)",
-    "type": "API",
-    "endpoint": "https://openrouter.ai/api/v1/chat/completions",
-    "streaming": true,
-    "adapter": "OpenRouter",
-    "fetch_models": true,
-    "default_model": "meta-llama/llama-3.1-8b-instruct:free",
-    "signup_url": "https://accounts.openrouter.ai/sign-up?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fkeys",
-    "key": "meta-llama/llama-3.2-3b-instruct:free",
-    "max_input_tokens": 131072,
-    "actions": true,
-    "multimodal": false,
-    "raw": {
-      "id": "meta-llama/llama-3.2-3b-instruct:free",
-      "name": "Meta: Llama 3.2 3B Instruct (free)",
-      "created": 1727222400,
-      "description": "Llama 3.2 3B is a 3-billion-parameter multilingual large language model, optimized for advanced natural language processing tasks like dialogue generation, reasoning, and summarization. Designed with the latest transformer architecture, it supports eight languages, including English, Spanish, and Hindi, and is adaptable for additional languages.\n\nTrained on 9 trillion tokens, the Llama 3.2B model excels in instruction-following, complex reasoning, and tool use. Its balanced performance makes it ideal for applications needing accuracy and efficiency in text generation across multilingual settings.\n\nClick here for the [original model card](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/MODEL_CARD.md).\n\nUsage of this model is subject to [Meta's Acceptable Use Policy](https://www.llama.com/llama3/use-policy/).\n\n_These are free, rate-limited endpoints for [Llama 3.2 3B Instruct](/models/meta-llama/llama-3.2-3b-instruct). Outputs may be cached. Read about rate limits [here](/docs/limits)._",
-      "context_length": 131072,
-      "architecture": {
-        "modality": "text->text",
-        "tokenizer": "Llama3",
-        "instruct_type": "llama3"
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0",
-        "image": "0",
-        "request": "0"
-      },
-      "top_provider": {
-        "context_length": 8192,
-        "max_completion_tokens": 4096,
-        "is_moderated": false
-      },
-      "per_request_limits": null
-    }
-  },
->>>>>>> cad5b7f5c035f788e4233e77b652c7ec8f999688
   "api_key": "",
   "excluded_headings": "",
   "folder_exclusions": "smart-chats",

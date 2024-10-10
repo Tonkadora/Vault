@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Session Notes/Session 1.md",
+            "file": "Session Notes/Session Zero.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Session Notes/Session 1.md",
+            "file": "Session Notes/Session Zero.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Session Notes/Session 1.md"
+            "file": "Session Notes/Session Zero.md"
           }
         }
       },
@@ -162,10 +161,10 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "0c7b9027f9b391c8",
+  "active": "3f3d55260fbe1a14",
   "lastOpenFiles": [
-    "Session Notes/Session Zero.md",
     "Session Notes/Session 1.md",
+    "Session Notes/Session Zero.md",
     "Session Notes/Session Zero huuuh.md",
     "Untitled 1.md",
     "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
