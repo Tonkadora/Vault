@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "barovia-overview",
-      "lastAccessed": 1728593196829,
+      "lastAccessed": 1728593247390,
       "markers": [
         {
           "id": "ID_4adb6b284bd9",
@@ -42,22 +42,6 @@
           "description": "Town of Barovia\n",
           "minZoom": 0,
           "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_bbb988085908",
-          "type": "default",
-          "loc": [
-            -1.21197509765625,
-            2.423095703125
-          ],
-          "layer": "%5B%5Bmap.webp%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": 8,
-          "maxZoom": 8,
           "tooltip": "hover"
         },
         {
@@ -178,7 +162,44 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": 7.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "400px",
+    "image": "[[map.webp]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[map.webp]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 10,
+    "minZoom": 7,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "barovia-overview",
+    "width": "100%",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",

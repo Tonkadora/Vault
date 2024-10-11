@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9015383b717ab46f",
+        "id": "6f7c1fd49341e962",
         "type": "tabs",
         "children": [
           {
-            "id": "4ebd9218082ba927",
+            "id": "1a34f9a52d19c7cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/World/Locations/Barovia.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wizard",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/World/Locations/Barovia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/World/Locations/Barovia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Curse of Strahd/World/Locations/Barovia.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,21 +150,23 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "4ebd9218082ba927",
+  "active": "1a34f9a52d19c7cf",
   "lastOpenFiles": [
+    "Curse of Strahd/World/Locations/Barovia.md",
+    "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
+    "Untitled.md",
+    "Curse of Strahd/NPC/Ireena Kolyana.md",
+    "Curse of Strahd/NPC/Arigol.md",
     "Curse of Strahd/NPC/Getsu.md",
     "Curse of Strahd/World/Locations/Tavern.md",
     "Curse of Strahd/NPC/Kolyan Indirovich.md",
-    "Curse of Strahd/NPC/Arigol.md",
     "copilot-conversations/Key.md",
-    "Curse of Strahd/World/Locations/Barovia.md",
     "Curse of Strahd/00Session Notes/Session 1.md",
     "Images/map.webp",
     "IMG_6755.jpeg",
     "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
     "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
-    "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Curse of Strahd/Players/Wayne Van Chilsing.md",
     "Curse of Strahd/Players/Faye.md",
@@ -183,7 +177,6 @@
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character/Thumper.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
-    "Untitled.md",
     "Images",
     "Curse of Strahd/World/Factions",
     "Curse of Strahd/World/Locations",
@@ -196,7 +189,6 @@
     "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
     "copilot-conversations/what_model_are_you@20241004_093353.md",
     "copilot-conversations/what_is_a_ball@20241004_092911.md",
-    "copilot-conversations/[[Sayings]]_create_a_saying_if_i_was_talking_to@20241004_091226.md",
     "copilot-conversations",
     "Curse of Strahd/Players/My Character",
     "smart-chats",
