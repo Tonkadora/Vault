@@ -8,11 +8,11 @@ Just as we were finishing our meal, a 50-year-old man burst into the tavern, sla
 
 **Meeting the Party**
 
-As we sat at the table, we met the other members of our party. There was [[Faye]], a dwarf with red hair and pointy ears, who looked wealthy and was going through a crisis. There was [[Wayne]], a dragonborn with a big axe and worn clothes, who was afraid of gold. And there was [[Xyrlee]], a wood elf with a slender build and green eyes
+As we sat at the table, we met the other members of our party. There was [[Faye]], a dwarf with red hair and pointy ears, who looked wealthy and was going through a crisis. There was [[Wayne]], a Dragonborn with a big axe and worn clothes, who was afraid of gold. And there was [[Xyrlee]], a wood elf with a slender build and green eyes
 
 **The Silver Blade**
 
-That night, we all found a silver blade, and mine had the number 9 on it. There was no magic on it. Other numbers were...
+That night, we all found a silver blade, and mine had the number 9 on it. There was no magic on it. Other numbers were  2, 
 
 **Flashback**
 
@@ -34,7 +34,7 @@ We saw a new scene, where an group of 11 people huddled up and a man was handing
 
 Xyrlee found out from his bird that we were in a mountain valley, with a road leading east to west and a big castle north of the road.
 
-The next day, we learned that Gensu went into Barovia to get wine. We also learned that it was less dangerous during the day, but still full of dangers. And we found out that the cat's name was indeed Prof. Victor Pollonskii.
+The next day, we learned that Gensu went into Barovia to get wine. We also learned that it was less dangerous during the day, but still full of dangers. And we found out that the cat's name was indeed Prof. Victor Pawllonskii.
 
 
 
