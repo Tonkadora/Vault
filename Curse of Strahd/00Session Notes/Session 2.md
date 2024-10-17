@@ -1,34 +1,28 @@
-Morning Day 2 cloudy overcast
+## Day 2
+### Arrival in Barovia
 
-Nothing out of the ordinary walking into Barovia in regards to the woods surrounding.
+We began the day by walking into [Barovia](app://obsidian.md/Barovia), a town shrouded in mystery and danger. The west side of the town had rows of houses, with the center road leading into the town center. The town was largely abandoned, with boarded-up buildings and a general sense of sadness. There were no hedges or gates surrounding the town, and the atmosphere was eerie and foreboding.
 
-Made it barovia west side has rows of houses 
-center road goes into town center. Looks just about abandoned, buildings are boarded up sad looking. Barovia has no hedges or gates. 
+### Encounter with Morgantha
 
-One old lady on the west side. some chimney smoke. Center of town there are 3 main buildings, two of which have lights on(Building 1 and 2)
-Faye took real initiative with hearing about the old lady and thought it was like a retreat she was on.
+From [Xyrlee Evihethrill](app://obsidian.md/Xyrlee%20Evihethrill)'s bird's eye view while approaching the town, we notice there is an old lady on the west side and some chimney smoke from around her area. In the center of town, there are 3 main buildings, two of which have lights on inside them (buildings 2 and 3).
 
-Old lady (Morgantha)- wooden cart blanked, hunched over dark robes rubbed in the dirt grey hair, walking away from us. Faye shouts at the old lady I hear shuffling noise in the building. 
-The old lady walks up to the noise and she knocks on the door and she tries to sell him something, he buys something from her, glowing silvery bottle. Trades her tonic for memories, happiness she says its her trade secret and she claims she's a powerful wizard. 
+As we made our way through the town, we encountered an old lady named [Morgantha](app://obsidian.md/Morgantha), who was selling a glowing silvery bottle to a local. He opened the door from where I heard shuffling from and [Morgantha](app://obsidian.md/Morgantha) gave him a vial and he provided her with blue glowing "rocks". She returned from the local and began trying to sell us her vials as well. She claimed to be a powerful wizard and traded the bottle for memories and happiness. [Morgantha](app://obsidian.md/Morgantha) warned us to go to the inn and let the magic take us, cautioning us that the school was haunted.
 
-She says to go to the inn and let the magic take you. School is haunted. 
+### Exploring the Town Center
 
-Transmutation - for rabbit and homunculus. 
+We continued on to the town center, where we found a shop that was old, empty, and wet. The interior was cluttered and appeared to have been abandoned for some time. We also came across the [Blood of the Vine Tavern](app://obsidian.md/Blood%20of%20the%20Vine%20Tavern), where we met [Ismark Colionovich](app://obsidian.md/Ismark%20Colionovich), the current Burgermister. Ismark was the son of [Kolyan Indirovich](app://obsidian.md/Kolyan%20Indirovich), and he had a sister named [Ireena Kolyana](app://obsidian.md/Ireena%20Kolyana) who had caught the attention of [Strahd](app://obsidian.md/Strahd), a vampire who had visited the town twice.
 
-Town center:
-- shop is old wet clammy empty
-- blood of the vine tavern 
-- Bildrath's Mercantile 
+### Meeting Ismark Indrovich
 
-We went into Blood of the Vine:
-- Barkeep, right side of the tavern 3 ladies, one person at the door
-- Man payed for wine, Eric the bar keep gives us 
-- offers us a spot at his tabel
-- His name Ismark Colionovich (Son of [[Kolyan Indirovich]]): Long hair chiseled jaw, white shirt dark slacks, dark jacket, nice boots, rapier, 
-- Ireena is Ismarks sister. She has caught the attention of Strahd. 
-- Ismark is current Burgermister, strahd visited 3 months and 6 months ago, rarely visit towns but sometimes visits. 1st visit Ismark wasn't there others don't, Ireena was bit by a vampire, she seems tired and sleepy but otherwise well. 2nd time dont remember him arriving, informed [[Kolyan Indirovich]] that he would be back to take Ireena. 
-- Vampires are undead, bite to make more vampires, drink blood, spooky, mind control powers. STRAHD IS VAMPIRE - tall dark hair and handsome, pointy teeth, very nicely dressed and clean cut. 
-- Falaki and Cresk are other towns to Barovia. Falaki 5-6 hr walk, Cresk is a couple day walk.
+Ismark explained that vampires were undead creatures that bit to make more vampires, drank blood, and had mind control powers. He warned us to be careful around Strahd, as he was a powerful and cunning foe. We also learned that Strahd rarely visited the town, but when he did, he was always well-dressed and clean-cut.
 
 
-Walking with Ismark to his home (5). Ismark trips on a rock and opens a door out comes a half man half mushroom. 
+We also learned that there were other towns nearby, including Falaki, which was located 5-6 hours walk from Barovia, and Cresk, which was a couple of days walk away.
+
+## Encounter
+### The Half-Man, Half-Mushroom Creature
+
+As we walked with Ismark to his home, he tripped on a rock and opened a door, revealing a half-man, half-mushroom creature. It charged at us from the doorway. 
+
+2024/10/16 20:15:47
