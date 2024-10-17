@@ -14,3 +14,5 @@ The homunculus regains 2d6 hit points if the mending spell is cast on it. If you
 ## Stat Block
 
 ![[Screenshot 2024-10-04 at 11.35.41 AM.png]]
+
+#Construct #companion
