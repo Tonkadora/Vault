@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 2.md",
+                "file": "Curse of Strahd/Players/My Character/Parents work.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 2"
+              "title": "Parents work"
             }
           }
         ],
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Bolovia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 2.md",
+                "file": "Curse of Strahd/World/Locations/Falaki.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Session 2"
+              "title": "Backlinks for Falaki"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 2.md",
+                "file": "Curse of Strahd/World/Locations/Falaki.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 2"
+              "title": "Outgoing links from Falaki"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 2.md"
+                "file": "Curse of Strahd/World/Locations/Falaki.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Session 2"
+              "title": "Outline of Falaki"
             }
           },
           {
@@ -188,15 +188,23 @@
   },
   "active": "21c2b55fb20ba642",
   "lastOpenFiles": [
+    "image.png",
+    "Curse of Strahd/Players/Faye.md",
+    "Curse of Strahd/Players/My Character/Parents work.md",
+    "Curse of Strahd/World/Locations/Cresk.md",
+    "Curse of Strahd/World/Locations/Falaki.md",
+    "Curse of Strahd/NPC/Arigol.md",
+    "Curse of Strahd/NPC/Getsu.md",
+    "Curse of Strahd/NPC/Ireena Kolyana.md",
+    "Curse of Strahd/NPC/Ismark Colionovich.md",
+    "Curse of Strahd/NPC/Kolyan Indirovich.md",
+    "Curse of Strahd/NPC/Morgantha.md",
+    "Curse of Strahd/00Session Notes/Session 2.md",
     "Curse of Strahd/00Session Notes/Session 1.md",
     "Curse of Strahd/00Session Notes/Session 0.md",
-    "Curse of Strahd/00Session Notes/Session 2.md",
-    "Curse of Strahd/NPC/Morgantha.md",
     "Curse of Strahd/World/Locations/Barovia.md",
     "Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Xyrlee.md",
-    "Curse of Strahd/World/Locations/Cresk.md",
-    "Curse of Strahd/World/Locations/Falaki.md",
     "Curse of Strahd/Players/My Character/Sayings.md",
     "Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Curse of Strahd/Players/My Character/Homunculus Servant.md",
@@ -206,17 +214,9 @@
     "Session Notes/Session 1.md",
     "Untitled.md",
     "Curse of Strahd/Players/My Character/Steel Defender.md",
-    "Curse of Strahd/Players/Faye.md",
-    "Session Notes/Session Zero.md",
     "Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Screenshot 2024-10-04 at 10.01.53 AM.png",
-    "Curse of Strahd/Players/My Character/Untitled 1.md",
-    "Curse of Strahd/Players/My Character/Untitled.md",
-    "Curse of Strahd/Players/My Character/DND.md",
-    "copilot-conversations/Key.md",
-    "copilot-conversations/what_is_a_ball@20241004_094135.md",
     "Untitled",
-    "copilot-conversations/[[Sayings]]_give_me_a_saying_for_talking_with_a@20241004_091511.md",
     "copilot-conversations",
     "Curse of Strahd/Players/My Character",
     "smart-chats",

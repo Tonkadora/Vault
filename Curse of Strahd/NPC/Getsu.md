@@ -34,7 +34,7 @@
 
 - Getsu's backstory is not well-known, but it is clear that he has been running his inn for some time.
 - He may have a personal history with the [[Vistani]] or other inhabitants of [[Barovia]].
-	- 
+
 
 **Future Interactions:**
 
