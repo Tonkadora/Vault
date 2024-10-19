@@ -1,1 +1,1 @@
-5-6 hour walk from Barovia
+5-6 hour walk from Barovia, larger city.

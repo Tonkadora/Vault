@@ -1,1 +1,1 @@
-6 hr walk from barovia
+6 hr walk from barovia More advanced
