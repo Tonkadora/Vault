@@ -1,5 +1,5 @@
 **Occupation:** Sister of [[Ismark Colionovich]], Daughter of [[Kolyan Indirovich]]
-**Physical Description:** Young woman with long hair, pale complexion, tired and sleepy appearance  
+**Physical Description:** Young woman with long hair, pale complexion, tired and sleepy appearance   tall, red hair, large jacket over clothing. 
 **Personality:** Subdued, reserved, possibly intimidated by Strahd's influence  
 **Interesting Notes:**
 
