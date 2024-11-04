@@ -8,14 +8,14 @@
 **Personality:** Apologetic, warm, inviting  
 **Interesting Notes:**
 
-- Getsu seems to be a kind and welcoming individual, despite the eerie atmosphere of the [[tavern]].
+- Getsu seems to be a kind and welcoming individual, despite the eerie atmosphere of the [[Tavern]].
 - He has a bandaged hand, which suggests that he may have been injured in the past.
 - Getsu is aware of the dangers of [[Barovia]] and warns us about the mist and the [[Vistani]].
 - He seems to be a bit of a local expert, providing us with information about the area and its inhabitants.
 
 **Relationships:**
 
-- Getsu is the innkeeper of the [[tavern]] where we first met.
+- Getsu is the innkeeper of the [[Tavern]] where we first met.
 - He seems to be a neutral party, providing us with information and services without taking a side.
 
 **Skills and Abilities:**

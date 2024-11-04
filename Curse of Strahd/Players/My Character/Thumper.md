@@ -1,6 +1,6 @@
 # Steel Defender
 # Rules
-
+type of magic is Transmutation 
 
 ## Book Text
 Your tinkering has borne you a companion, a steel defender. It’s friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature’s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
@@ -14,6 +14,10 @@ At the end of a long rest, you can create a new steel defender if you have smith
 ## Stat block
 
 
+## Heals/long rest
+- [x] heals 
+- [x] heals 
+- [ ] heals 
 
 ![[Screenshot 2024-10-04 at 10.01.53 AM.png]]
 

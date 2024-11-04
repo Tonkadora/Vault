@@ -1,3 +1,8 @@
+---
+hp: 0
+level: 4
+modifier: 0
+---
 # Xyrlee Evihethriil
 
 (Zur-lee)

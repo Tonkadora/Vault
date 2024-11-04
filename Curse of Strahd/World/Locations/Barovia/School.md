@@ -1,0 +1,11 @@
+- **Location:** A small, one-room schoolhouse in Barovia Building 3
+- **Description:** A dusty, neglected building with overgrown vegetation and a sense of abandonment
+- **Features:**
+    - A single room with a large desk and a few chairs
+    - A collection of old books and educational materials
+    - A sense of neglect and disuse
+- **Notes:**
+    - The school may have been abandoned or closed due to the supernatural events in Barovia
+    - The school may hold secrets or clues about the history of Barovia and its inhabitants
+    - The school may be a place of refuge or safety for those seeking to escape the dangers of the town
+    - The school may be connected to the local vampire, Strahd, or other supernatural forces in the area

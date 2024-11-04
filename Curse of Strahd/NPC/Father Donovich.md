@@ -1,0 +1,13 @@
+- **Age:** Late 50s
+- **Occupation:** Priest
+- **Personality:** Lack of one , seems very overwhelmed
+- **Physical Description:** A middle-aged man with a kind face and a gentle demeanor, wearing a simple white robe with a Morninglord symbol on his chest
+- **Goals:**
+    - Wants to figure out what to do with his son
+- **Notes:**
+    - Has a son named Doru who is a vampire
+    - Doru was supposed to take over the church but fell in with a bad group and was bitten by Strahd
+    - Father Donovich is concerned about his son's fate and the potential consequences of his vampirism
+    - Has a connection to the Morning Lord, a figure associated with the sun and possibly a deity, with a mosaic of the Morning Lord with a sunburst for the face in the chapel
+    - May have a complex relationship with the church and its traditions, given the mention of cremating bodies and the existence of vampires in the community
+    - Has a personal connection to the chapel and the church, which may be a source of comfort or conflict for him

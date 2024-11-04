@@ -1,4 +1,5 @@
 {
   "newFileLocation": "root",
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

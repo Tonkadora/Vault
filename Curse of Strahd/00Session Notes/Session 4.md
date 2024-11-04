@@ -1,22 +1,29 @@
-Ceremony is over and we all head out to the cemetery. 
+### Cemetery
 
-Faye is off quickly to the school. 
+After the ceremony, the group heads to the cemetery.
+- We sent off [[Kolyan Indirovich]]
+- I head in with 
+- Faye quickly heads to the school.
 
-## Donovich
--  Doru wanted to leave and was supposed to take over the church
-- may have fell with a bad group, too close to the castle, gone for many days, Strahd brought him back to show him. 
-- Vampiers 
-- Stahd bit and killed him 3 days later returned as what he is now. If he allowed Doru to drink human blood he would become stronger. Could kill and bury within 3 days. 
-- Doru may have just been in the wrong place and the church was full and may have also provoked Strahd to send a message. 
+### Donovich
 
-## Town Center
-- Store Bilgath Mercantiles- 
-- has normal very basic items
-- has an item in the back 
-- it is an old fancy looking book 
+---
 
+- **Donovich's Past**: Doru was supposed to take over the church, but he may have fallen in with a bad group, getting too close to the castle and disappearing for many days. Strahd brought him back to show him.
+- **Vampire Transformation**: Strahd bit and killed Doru, and he returned as a vampire three days later. If allowed to drink human blood, Doru would become stronger, able to kill and bury within three days.
+- **Alternative Explanation**: Doru may have simply been in the wrong place, and the church was full, or he may have provoked Strahd, leading to his message.
 
-## School
-- one room school house
-- dusty wet tired. but it has overgrowth with mushrooms. 
-- We open the school up and start fighting a mushroom man and a big spider (creepy white and large.) Spider took damage from Wayne's radiant blast. Mushroom man took a shot from me and looks bloody. Starting back on my round when we come back. 
+### Town Center
+
+---
+
+- **Store Bilgath Mercantiles**
+    - Basic items available
+    - An old, fancy-looking book is hidden in the back
+
+### School
+
+---
+
+- **One-Room Schoolhouse**: The school is dusty, wet, and tired, but has overgrown with mushrooms.
+- **Encounter**: The group fights a mushroom man and a large spider (creepy white and large). The spider took damage from Wayne's radiant blast, while the mushroom man took a shot from you and appears bloody. The fight is ongoing.
