@@ -11,10 +11,14 @@
             "id": "7048d0e27fc69772",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "VideoGame/Practice/BrotatoClone/Node Hierarchy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Node Hierarchy"
             }
           }
         ]
@@ -147,8 +151,8 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
@@ -183,9 +187,16 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "fcb859f9b94989b0",
+  "active": "7048d0e27fc69772",
   "lastOpenFiles": [
+    "VideoGame/Practice/BrotatoClone/Scripts/Scripts Overview.md",
+    "VideoGame/Practice/BrotatoClone/Scripts/Scripts.md",
+    "VideoGame/Practice/BrotatoClone/Node Hierarchy.md",
     "1730494707019 - School House.md",
+    "VideoGame/Practice/BrotatoClone/Scripts/sword_ability_controller.gd",
+    "VideoGame/Practice/BrotatoClone/Scripts",
+    "VideoGame/Practice/BrotatoClone",
+    "VideoGame/Practice",
     "Curse of Strahd/Players/My Character/Thumper.md",
     "VideoGame/MyGames/MiningGame/World/Zones.md",
     "VideoGame/MyGames/MiningGame/World/Tile.md",
@@ -204,23 +215,16 @@
     "Dnd/Curse of Strahd/World/Locations/Barovia/Chapel.md",
     "Dnd/Curse of Strahd/World/Locations/Barovia/Barovia.md",
     "Dnd/Curse of Strahd/World/Locations/Falaki",
-    "Dnd/Curse of Strahd/World/Locations/Cresk",
-    "Dnd/Curse of Strahd/World/Locations/Barovia",
     "Dnd/Curse of Strahd/World/Factions/Vistani.md",
     "Dnd/Curse of Strahd/Players/My Character/Thumper.md",
     "Dnd/Curse of Strahd/Players/My Character/Sayings.md",
     "Dnd/Curse of Strahd/Players/My Character/Parents work.md",
     "Dnd/Curse of Strahd/Players/My Character/Lyle Hartman.md",
     "Dnd/Curse of Strahd/Players/My Character/Homunculus Servant.md",
-    "Dnd/Curse of Strahd/World/Locations",
-    "Dnd/Curse of Strahd/World/Factions",
     "Dnd/Curse of Strahd/Quests/Help Kolyan Indirovich.md",
     "Dnd/Curse of Strahd/Players/Xyrlee Evihethrill.md",
     "Dnd/Curse of Strahd/Players/Wayne Van Chilsing.md",
     "Dnd/Curse of Strahd/Players/Faye.md",
-    "Dnd/Curse of Strahd/NPC/Strahd.md",
-    "Dnd/Curse of Strahd/NPC/Morgantha.md",
-    "Dnd/Curse of Strahd/NPC/Kolyan Indirovich.md",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
     "Dnd/Curse of Strahd/Images/image.png",
