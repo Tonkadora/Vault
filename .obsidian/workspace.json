@@ -4,54 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2d341535c7d645be",
+        "id": "f3afc7e92022a8e2",
         "type": "tabs",
-        "dimension": 57.838283828382835,
         "children": [
           {
-            "id": "6f09d9e97843881e",
+            "id": "a468489f133fb1f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/My Character/Thumper.md",
+                "file": "VideoGame/MiningGame/World/Tile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thumper"
-            }
-          },
-          {
-            "id": "caebb87f89c48a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Session 5"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "121f98acf8bc9eeb",
-        "type": "tabs",
-        "dimension": 42.16171617161716,
-        "children": [
-          {
-            "id": "c4a5bc012ce0d13c",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "title": "Tile"
             }
           }
         ]
@@ -145,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/00Session Notes/Session 5.md",
+                "file": "VideoGame/MiningGame/World/Tile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Session 5"
+              "title": "Outgoing links from Tile"
             }
           },
           {
@@ -187,30 +154,23 @@
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "766299026bc7da1c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "b75446f5440985c4",
+            "id": "6c72de9dfd645c3a",
             "type": "leaf",
             "state": {
-              "type": "initiative-tracker-creature-view",
+              "type": "copilot-chat-view",
               "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 550.5,
-    "collapsed": true
+    "width": 568.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,49 +186,49 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "caebb87f89c48a3f",
+  "active": "a468489f133fb1f8",
   "lastOpenFiles": [
-    "Curse of Strahd/World/Locations/Barovia/Tavern.md",
-    "Curse of Strahd/00Session Notes/Session 5.md",
-    "Curse of Strahd/00Session Notes/Session 4.md",
-    "Curse of Strahd/Players/My Character/Homunculus Servant.md",
-    "Curse of Strahd/Players/My Character/Thumper.md",
-    "Curse of Strahd/Quests/Help Kolyan Indirovich.md",
-    "Curse of Strahd/World/Locations/Barovia/Manor.md",
-    "Curse of Strahd/World/Locations/Barovia/Chapel.md",
-    "Curse of Strahd/World/Locations/Barovia/Barovia.md",
-    "Curse of Strahd/World/Locations/Barovia/School.md",
-    "Encounters/School House.md",
     "1730494707019 - School House.md",
-    "1730494139361 - School House.md",
-    "Curse of Strahd/00Session Notes/Session 2.md",
-    "Curse of Strahd/NPC/Morgantha.md",
-    "Curse of Strahd/00Session Notes/Session 3.md",
-    "Encounters",
-    "Curse of Strahd/NPC/Strahd.md",
-    "Curse of Strahd/World/Locations/Falaki",
-    "Curse of Strahd/World/Locations/Cresk",
+    "VideoGame/MiningGame/World/Tile.md",
+    "VideoGame/MiningGame/World/Base.md",
+    "VideoGame/MiningGame/00OverVeiw/Overview.md",
+    "VideoGame/MiningGame/World/Zones.md",
+    "VideoGame/MiningGame/00OverVeiw",
+    "VideoGame/MiningGame/World",
+    "Dnd/Curse of Strahd/Encounters/1730494707019 - School House.md",
+    "VideoGame/MiningGame",
+    "VideoGame",
+    "Dnd/Curse of Strahd/Encounters/1730494139361 - School House.md",
+    "Dnd/Curse of Strahd/Images/image.png",
+    "Dnd",
+    "Dnd/Curse of Strahd/00Session Notes/Session 5.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Tavern.md",
+    "Dnd/Curse of Strahd/00Session Notes/Session 4.md",
+    "Dnd/Curse of Strahd/Players/My Character/Homunculus Servant.md",
+    "Dnd/Curse of Strahd/Players/My Character/Thumper.md",
+    "Dnd/Curse of Strahd/Quests/Help Kolyan Indirovich.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Manor.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Chapel.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Barovia.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/School.md",
+    "Dnd/Curse of Strahd/Encounters/School House.md",
+    "Dnd/Curse of Strahd/00Session Notes/Session 2.md",
+    "Dnd/Curse of Strahd/NPC/Morgantha.md",
+    "Dnd/Curse of Strahd/00Session Notes/Session 3.md",
+    "Dnd/Curse of Strahd/Encounters",
+    "Dnd/Curse of Strahd/NPC/Strahd.md",
+    "Dnd/Curse of Strahd/World/Locations/Falaki",
+    "Dnd/Curse of Strahd/World/Locations/Cresk",
     "Father Donovan.md",
-    "Curse of Strahd/NPC/Father Donovich.md",
-    "Curse of Strahd/World/Locations/Barovia",
-    "Curse of Strahd/NPC/Doru.md",
-    "image.png",
+    "Dnd/Curse of Strahd/NPC/Father Donovich.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia",
+    "Dnd/Curse of Strahd/NPC/Doru.md",
     "Untitled 1.md",
-    "Curse of Strahd/NPC/Arigol.md",
-    "Curse of Strahd/NPC/Ireena Kolyana.md",
-    "Curse of Strahd/NPC/Getsu.md",
-    "Curse of Strahd/NPC/Ismark Colionovich.md",
-    "Curse of Strahd/NPC/Kolyan Indirovich.md",
-    "Images/map.webp",
+    "Dnd/Curse of Strahd/Images/map.webp",
     "IMG_6755.jpeg",
-    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
-    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
-    "Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
-    "Curse of Strahd/Quests",
-    "Images",
-    "Curse of Strahd/World/Factions",
-    "Curse of Strahd/World/Locations",
-    "Curse of Strahd/World",
-    "Curse of Strahd/NPC"
+    "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
+    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
+    "Dnd/Curse of Strahd/Quests"
   ]
 }

@@ -141,7 +141,7 @@
         "currentMaxHP": 0,
         "note": "Xyrlee Evihethrill",
         "path": "Curse of Strahd/Players/Xyrlee Evihethrill.md",
-        "id": "ID_fa3b7bf91a58",
+        "id": "ID_4a09d8d9fb88",
         "currentHP": 0,
         "tempHP": 0,
         "status": [],
@@ -150,7 +150,7 @@
         "player": true,
         "active": false,
         "hidden": false,
-        "friendly": true
+        "friendly": false
       },
       {
         "name": "Lyle",
@@ -161,7 +161,7 @@
         "currentMaxHP": 28,
         "ac": "15",
         "currentAC": "15",
-        "id": "ID_1bda094ac968",
+        "id": "ID_bbebd90adbfb",
         "currentHP": 28,
         "tempHP": 0,
         "status": [],
@@ -179,7 +179,7 @@
         "modifier": 0,
         "hp": 0,
         "currentMaxHP": 0,
-        "id": "ID_280b394978e9",
+        "id": "ID_1baaa90ac9a9",
         "currentHP": 0,
         "tempHP": 0,
         "status": [],
@@ -188,16 +188,16 @@
         "player": true,
         "active": false,
         "hidden": false,
-        "friendly": true
+        "friendly": false
       },
       {
         "name": "Faye",
         "initiative": 12,
         "static": false,
         "modifier": 0,
-        "hp": null,
+        "hp": 0,
         "currentMaxHP": null,
-        "id": "ID_38ab19793a09",
+        "id": "ID_aa4a3a98fa89",
         "currentHP": null,
         "tempHP": 0,
         "status": [],
@@ -206,7 +206,7 @@
         "player": true,
         "active": false,
         "hidden": false,
-        "friendly": true
+        "friendly": false
       },
       {
         "name": "Giant Spider",
