@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VideoGame/MiningGame/World/Tile.md",
+                "file": "VideoGame/MyGames/MiningGame/World/Tile.md",
                 "mode": "source",
                 "source": false
               },
@@ -186,17 +186,20 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a468489f133fb1f8",
+  "active": "fcb859f9b94989b0",
   "lastOpenFiles": [
+    "VideoGame/Practice/Brotato Clone",
+    "VideoGame/Practice",
+    "VideoGame/MyGames",
     "1730494707019 - School House.md",
-    "VideoGame/MiningGame/World/Tile.md",
-    "VideoGame/MiningGame/World/Base.md",
-    "VideoGame/MiningGame/00OverVeiw/Overview.md",
-    "VideoGame/MiningGame/World/Zones.md",
-    "VideoGame/MiningGame/00OverVeiw",
-    "VideoGame/MiningGame/World",
+    "VideoGame/MyGames/MiningGame/World/Tile.md",
+    "VideoGame/MyGames/MiningGame/World/Base.md",
+    "VideoGame/MyGames/MiningGame/00OverVeiw/Overview.md",
+    "VideoGame/MyGames/MiningGame/World/Zones.md",
+    "VideoGame/MyGames/MiningGame/00OverVeiw",
+    "VideoGame/MyGames/MiningGame/World",
     "Dnd/Curse of Strahd/Encounters/1730494707019 - School House.md",
-    "VideoGame/MiningGame",
+    "VideoGame/MyGames/MiningGame",
     "VideoGame",
     "Dnd/Curse of Strahd/Encounters/1730494139361 - School House.md",
     "Dnd/Curse of Strahd/Images/image.png",
@@ -221,14 +224,11 @@
     "Dnd/Curse of Strahd/World/Locations/Cresk",
     "Father Donovan.md",
     "Dnd/Curse of Strahd/NPC/Father Donovich.md",
-    "Dnd/Curse of Strahd/World/Locations/Barovia",
     "Dnd/Curse of Strahd/NPC/Doru.md",
-    "Untitled 1.md",
     "Dnd/Curse of Strahd/Images/map.webp",
     "IMG_6755.jpeg",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
-    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
-    "Dnd/Curse of Strahd/Quests"
+    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg"
   ]
 }
