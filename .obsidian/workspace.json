@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f3afc7e92022a8e2",
+        "id": "b3b0ae13f48476c1",
         "type": "tabs",
         "children": [
           {
-            "id": "a468489f133fb1f8",
+            "id": "7048d0e27fc69772",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VideoGame/MyGames/MiningGame/World/Tile.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Tile"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -112,12 +108,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "VideoGame/MiningGame/World/Tile.md",
+                "file": "Curse of Strahd/00Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tile"
+              "title": "Outgoing links from Session 3"
             }
           },
           {
@@ -146,31 +142,22 @@
             }
           },
           {
-            "id": "8ed33955ff39afaa",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "6c72de9dfd645c3a",
+            "id": "3ebeaef48b4cea90",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 568.5
+    "width": 550.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,53 +169,56 @@
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
       "copilot:Copilot Chat": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Initiative Tracker Encounter Builder": false
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
   "active": "fcb859f9b94989b0",
   "lastOpenFiles": [
-    "VideoGame/Practice/Brotato Clone",
-    "VideoGame/Practice",
-    "VideoGame/MyGames",
-    "1730494707019 - School House.md",
+    "Curse of Strahd/Players/My Character/Thumper.md",
+    "VideoGame/MyGames/MiningGame/World/Zones.md",
     "VideoGame/MyGames/MiningGame/World/Tile.md",
     "VideoGame/MyGames/MiningGame/World/Base.md",
     "VideoGame/MyGames/MiningGame/00OverVeiw/Overview.md",
-    "VideoGame/MyGames/MiningGame/World/Zones.md",
-    "VideoGame/MyGames/MiningGame/00OverVeiw",
     "VideoGame/MyGames/MiningGame/World",
-    "Dnd/Curse of Strahd/Encounters/1730494707019 - School House.md",
+    "VideoGame/MyGames/MiningGame/00OverVeiw",
     "VideoGame/MyGames/MiningGame",
+    "VideoGame/MyGames",
     "VideoGame",
-    "Dnd/Curse of Strahd/Encounters/1730494139361 - School House.md",
-    "Dnd/Curse of Strahd/Images/image.png",
-    "Dnd",
-    "Dnd/Curse of Strahd/00Session Notes/Session 5.md",
+    "Dnd/Curse of Strahd/World/Locations/Falaki/Falaki.md",
+    "Dnd/Curse of Strahd/World/Locations/Cresk/Cresk.md",
     "Dnd/Curse of Strahd/World/Locations/Barovia/Tavern.md",
-    "Dnd/Curse of Strahd/00Session Notes/Session 4.md",
-    "Dnd/Curse of Strahd/Players/My Character/Homunculus Servant.md",
-    "Dnd/Curse of Strahd/Players/My Character/Thumper.md",
-    "Dnd/Curse of Strahd/Quests/Help Kolyan Indirovich.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/School.md",
     "Dnd/Curse of Strahd/World/Locations/Barovia/Manor.md",
     "Dnd/Curse of Strahd/World/Locations/Barovia/Chapel.md",
     "Dnd/Curse of Strahd/World/Locations/Barovia/Barovia.md",
-    "Dnd/Curse of Strahd/World/Locations/Barovia/School.md",
-    "Dnd/Curse of Strahd/Encounters/School House.md",
-    "Dnd/Curse of Strahd/00Session Notes/Session 2.md",
-    "Dnd/Curse of Strahd/NPC/Morgantha.md",
-    "Dnd/Curse of Strahd/00Session Notes/Session 3.md",
-    "Dnd/Curse of Strahd/Encounters",
-    "Dnd/Curse of Strahd/NPC/Strahd.md",
     "Dnd/Curse of Strahd/World/Locations/Falaki",
     "Dnd/Curse of Strahd/World/Locations/Cresk",
-    "Father Donovan.md",
-    "Dnd/Curse of Strahd/NPC/Father Donovich.md",
-    "Dnd/Curse of Strahd/NPC/Doru.md",
-    "Dnd/Curse of Strahd/Images/map.webp",
-    "IMG_6755.jpeg",
+    "Dnd/Curse of Strahd/World/Locations/Barovia",
+    "Dnd/Curse of Strahd/World/Factions/Vistani.md",
+    "Dnd/Curse of Strahd/Players/My Character/Thumper.md",
+    "Dnd/Curse of Strahd/Players/My Character/Sayings.md",
+    "Dnd/Curse of Strahd/Players/My Character/Parents work.md",
+    "Dnd/Curse of Strahd/Players/My Character/Lyle Hartman.md",
+    "Dnd/Curse of Strahd/Players/My Character/Homunculus Servant.md",
+    "Dnd/Curse of Strahd/World/Locations",
+    "Dnd/Curse of Strahd/World/Factions",
+    "Dnd/Curse of Strahd/Quests/Help Kolyan Indirovich.md",
+    "Dnd/Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Dnd/Curse of Strahd/Players/Wayne Van Chilsing.md",
+    "Dnd/Curse of Strahd/Players/Faye.md",
+    "Dnd/Curse of Strahd/NPC/Strahd.md",
+    "Dnd/Curse of Strahd/NPC/Morgantha.md",
+    "Dnd/Curse of Strahd/NPC/Kolyan Indirovich.md",
+    "Dnd/Curse of Strahd/NPC/Ismark Colionovich.md",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
     "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
-    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg"
+    "Dnd/Curse of Strahd/Images/image.png",
+    "Dnd/Curse of Strahd/Images/map.webp",
+    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
+    "image.png",
+    "Images/map.webp",
+    "IMG_6755.jpeg",
+    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png"
   ]
 }
