@@ -1,0 +1,11 @@
+- **Location:** A large, run-down estate in Barovia, possibly located near the town center. Building 
+- **Description:** A once-grand estate that has fallen into disrepair, with a neglected garden and overgrown vegetation
+- **Features:**
+    - A large, ornate door with a complex code of knocks that [[Ismark Colionovich]] uses to gain entry
+    - A dusty, neglected interior with cobwebs and broken furniture
+    - A study with a large desk and several bedrolls, possibly indicating that Ismark has been using the manor as a temporary residence
+- **Notes:**
+    - The manor is a symbol of Ismark's family's past wealth and influence in [[Barovia]]
+    - The estate's neglect may be a reflection of Ismark's current circumstances and his struggles to maintain his family's legacy
+    - The manor may hold secrets and clues about Ismark's past and his connection to [[Strahd]]
+    

@@ -1,0 +1,15 @@
+- **Age:** Unknown, appears to be in his mid-40s
+- **Occupation:** Lord of [[Barovia]]
+- **Personality:** Charismatic, manipulative, cruel, and calculating
+- **Physical Description:** Tall, dark-haired, and handsome, with piercing eyes and a chiseled jawline
+- **Goals:**
+    - Maintain control over Barovia and its inhabitants
+    - Manipulate and use others to achieve his goals
+    - Feed on the fear and terror of those around him
+- **Notes:**
+    - Has a long history of ruling Barovia with an iron fist
+    - Has a particular interest in [[Ireena Kolyana]] and may be using her for his own purposes
+    - Has a connection to the Kolyan family and may have a personal stake in their fate
+    - Is capable of manipulating and controlling the minds of others, possibly through his vampiric powers
+	- Turned [[Doru]] into a vampire. Not sure of motive behind this
+    - May have a complex and troubled past, with secrets and motivations that are not yet fully understood

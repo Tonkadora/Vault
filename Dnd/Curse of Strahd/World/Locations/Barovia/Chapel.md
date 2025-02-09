@@ -1,0 +1,11 @@
+- **Location:** Building 6 in the town of Barovia
+- **Description:** A small, simple chapel with an iron fence and lights coming from within
+- **Features:**
+	- A mosaic of the Morning Lord with a sunburst for the face
+	- rows of benches filling the room
+    - A back room with a marble slab and an iron grate with a fire underneath it
+- **Notes:**
+    - Father Donovan is the priest who serves the chapel
+    - The chapel is a place of comfort and solace for the people of Barovia
+    - The chapel is also a place where bodies are cremated, possibly as a way to prevent the undead from rising
+    - [[Doru]], [[Father Donovich]]'s son, lives under the church, possibly in a hidden location

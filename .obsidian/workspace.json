@@ -4,71 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "175b3287379ace03",
+        "id": "b3b0ae13f48476c1",
         "type": "tabs",
         "children": [
           {
-            "id": "8c3e5a95c93cd776",
+            "id": "47c452f2112c1252",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Work/Animation/12 Principles/04_ Arcs.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "04_ Arcs"
             }
           },
           {
-            "id": "3e5e28e1cc705bd7",
+            "id": "88a80a7f757f882f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "file": "Work/Animation/12 Principles/Principals.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Principals"
             }
           },
           {
-            "id": "45acb88ed5a8a9b8",
+            "id": "e50b002005fb013f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session Zero.md",
+                "file": "Dnd/Curse of Strahd/00Session Notes/Session 5.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5331129f8e61062a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "400c8d7527d05d0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Session 5"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -87,8 +69,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -97,13 +82,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "note",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -111,14 +98,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 256.5
   },
   "right": {
     "id": "bf47b1d3bd64b418",
@@ -134,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "file": "Curse of Strahd/00Session Notes/Session 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +131,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Session 3"
             }
           },
           {
@@ -151,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md",
+                "file": "Curse of Strahd/00Session Notes/Session 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Session 3"
             }
           },
           {
@@ -165,7 +158,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -174,24 +169,30 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curse of Strahd/Players/Lyle Hartman.md"
-              }
+                "file": "Curse of Strahd/00Session Notes/Session 3.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Session 3"
             }
           },
           {
-            "id": "795b35831b317dc5",
+            "id": "3ebeaef48b4cea90",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           },
           {
-            "id": "0e52902783ac930a",
+            "id": "82dbb84485a216c4",
             "type": "leaf",
             "state": {
-              "type": "smart-connections-view",
-              "state": {}
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -199,10 +200,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 550.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "initiative-tracker:Initiative Tracker Encounter Builder": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -210,25 +213,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "copilot:Copilot Chat": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "400c8d7527d05d0e",
+  "active": "e50b002005fb013f",
   "lastOpenFiles": [
-    "Curse of Strahd/Players/Xyrlee Evihethrill.md",
-    "Session Notes/Session Zero.md",
-    "Curse of Strahd/Players/Lyle Hartman.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "smart-chats/UNTITLED CHAT 2024-10-04 03 38 37.md",
-    "smart-chats/UNTITLED CHAT 2024-10-04 03 02 51.md",
-    "Session Notes/key.md",
-    "smart-chats",
-    "Curse of Strahd/Players",
-    "Curse of Strahd",
-    "Did it work.md",
-    "Session Notes",
-    "did it work.md"
+    "Work/Animation/12 Principles/04_ Arcs.md",
+    "Work/Animation/12 Principles/Principals.md",
+    "Work/PD/Assessment/1.17.25.md",
+    "Untitled",
+    "Work/PD/Assessment",
+    "Work/PD",
+    "Work/Animation/12 Principles/03_Straight Ahead and pose to pose.md",
+    "Work/Animation/12 Principles/02_Squash and Streach.md",
+    "Work/Animation/12 Principles/01_Timing.md",
+    "Work/Animation/12 Principles",
+    "Work/Animation/Intro to adobe animate.md",
+    "Work/Animation/Intro.md",
+    "Work/Animation",
+    "Dnd/Curse of Strahd/Players/Xyrlee Evihethrill.md",
+    "Work",
+    "VideoGame/Practice/BrotatoClone/Node Hierarchy.md",
+    "VideoGame/Practice/BrotatoClone/Scripts/Scripts Overview.md",
+    "VideoGame/Practice/BrotatoClone/Scripts/Scripts.md",
+    "1730494707019 - School House.md",
+    "VideoGame/Practice/BrotatoClone/Scripts/sword_ability_controller.gd",
+    "VideoGame/Practice/BrotatoClone/Scripts",
+    "VideoGame/Practice/BrotatoClone",
+    "VideoGame/Practice",
+    "Curse of Strahd/Players/My Character/Thumper.md",
+    "VideoGame/MyGames/MiningGame/World/Zones.md",
+    "VideoGame/MyGames/MiningGame/World/Tile.md",
+    "VideoGame/MyGames/MiningGame/World/Base.md",
+    "VideoGame/MyGames/MiningGame/00OverVeiw/Overview.md",
+    "Dnd/Curse of Strahd/World/Locations/Falaki/Falaki.md",
+    "Dnd/Curse of Strahd/World/Locations/Cresk/Cresk.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Tavern.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/School.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Manor.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Chapel.md",
+    "Dnd/Curse of Strahd/World/Locations/Barovia/Barovia.md",
+    "Dnd/Curse of Strahd/World/Factions/Vistani.md",
+    "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Dnd/Curse of Strahd/Images/Screenshot 2024-10-04 at 10.01.53 AM.png",
+    "Dnd/Curse of Strahd/Images/image.png",
+    "Dnd/Curse of Strahd/Images/map.webp",
+    "Dnd/Curse of Strahd/Images/2FD67B37-6F43-450F-81C8-2A2CAB17B12FGetsu.jpeg",
+    "image.png",
+    "Images/map.webp",
+    "IMG_6755.jpeg",
+    "Images/Screenshot 2024-10-04 at 11.35.41 AM.png",
+    "Images/Screenshot 2024-10-04 at 10.01.53 AM.png"
   ]
 }
