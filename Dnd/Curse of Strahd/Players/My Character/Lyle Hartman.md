@@ -83,7 +83,7 @@ Clockwork jack rabbit:
 
 ### "Flint Westwood"
 
-- Smooth-talking cowboy in his mid-30s
+- Smooth-talking cowboy in his mid-40s
 - Rugged, charming with slight stubble and weathered hat
 - Speaks with a drawl, uses colorful metaphors
 
